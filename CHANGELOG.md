@@ -10,3 +10,6 @@ cat > USAGE.md << 'EOF'
 
 ```bash
 python3 watcher.py
+
+## 2025-09-28
+- Minor update
